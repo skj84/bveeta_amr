@@ -9,5 +9,7 @@ Step2:
 create new folder catkin_ws at home directory. And then create folder src in catkin_ws folder:
 
 mkdir catkin_ws
+
 cd catkin_ws
+
 mkdir src
